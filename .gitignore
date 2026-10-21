@@ -1,0 +1,13 @@
+build/
+*.exe
+*.o
+*.d
+campusrides
+test_runner
+test_data*/
+data/*.csv
+push_milestones.py
+.milestone_state.json
+*.pyc
+__pycache__/
+
